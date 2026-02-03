@@ -1,1 +1,1 @@
-# HackNovaVIT
+# Team HackNovaVIT
